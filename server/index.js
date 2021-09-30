@@ -40,5 +40,5 @@ mongoose
 
 // mongoose.set("useFindAndModify", false)
 
-// To kill the servers
+// To kill the serverss
 // fuser -k -n tcp 5000
