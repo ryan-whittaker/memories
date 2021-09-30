@@ -37,7 +37,6 @@ mongoose
 //     app.listen(PORT, () => console.log(`Server running on port: ${PORT}`))
 //   )
 //   .catch((error) => error.message)
-
 // mongoose.set("useFindAndModify", false)
 
 // To kill the servers
